@@ -1,0 +1,159 @@
+{
+    "cachorroQuente": [
+      {
+        "id": 1,
+        "nome": "Cachorro Quente Tradicional 1",
+        "descricao": "Pão (30cm), salsicha, batata palha, queijo ralado, tomate cru, pimentão cru, maionese",
+        "preco": 15.00,
+        "imagem": "",
+        "categoria_id": 1
+      },
+      {
+        "nome": " Cachorro Quente Tradicional 2",
+        "descricao": "Pão (30cm), Linguiça, batata palha, queijo ralado, tomate cru, pimentão cru, maionese e molho especial.",
+        "preco": 16.99,
+        "imagem": "Pão, salsicha, batata palha, queijo ralado, tomate cru, pimentão cru, maionese e molho especial.",
+        "categoria_id": 1,
+        "id": 2
+      },
+      {
+        "nome": "Cachorro Quente Artesanal 1",
+        "descricao": "Pão de alho e ervas (30cm), salsicha artesanal, peito de peru, cebola caramelizada, pimentões coloridos cru, tomate cru e molho especial.",
+        "preco": 28.00,
+        "imagem": "https://files.menudino.com/cardapios/29354/19.jpg",
+        "categoria_id": 1,
+        "id": 3
+      },
+      {
+        "id": 4,
+        "nome": "Cachorro Quente Artesanal 2",
+        "descricao": "Pão cebola Roxa (30cm), linguiça atersanal, peito de peru, cebola caramelizada, pimentões coloridos cru, tomate cru e molho especial.",
+        "preco": 28.00,
+        "imagem": "https://files.menudino.com/cardapios/29354/18.jpg",
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "Cachorro Quente Vegano",
+        "descricao": "Pão brioche vegano, salsicha caseira de feijão branco, cenoura ralada, pimentões coloridos cru, tomate cru, maionese de alho-poró ecreme de beterraba com tomate.",
+        "preco": 30.00,
+        "imagem": "https://meucachorroquente.com.br/wp-content/uploads/2021/08/receita-de-cachorro-quente-com-cenoura.jpg",
+        "categoria_id": 1
+      },
+      {
+        "id": 6,
+        "nome": "Cachorro quente de Prestígio",
+        "descricao": "Pão levemente adocicado, chocolate preto, leite condensado e coco ralado.",
+        "preco": 22.50,
+        "categoria_id": 1
+      }
+    ],
+    "Batatas": [
+      {
+        "id": 1,
+        "nome": "Batata (P)",
+        "descricao": "Batata, Calabresa e Cheddar.",
+        "preco": 10,
+        "imagem": "https://meucachorroquente.com.br/wp-content/uploads/2021/08/receita-de-cachorro-quente-com-cenoura.jpg",
+        "categoria_id": 2
+      },
+      {
+        "id": 2,
+        "nome": "Batata (M)",
+        "descricao": "Batata, Bacon, Calabresa, Queijo ralado, Cheddar e Catupiry.",
+        "preco": 20,
+        "imagem": "",
+        "categoria_id": 2
+      }
+    ],
+    "SaladaFresca": [
+      {
+        "id": 1,
+        "Nome": "Salada",
+        "descrição": "Alface americana, alface roxa, cenoura ralada, cebola fatiada, palmito, queijo parmesao ralado. ",
+        "preco": 22,
+        "imagem": "",
+        "categoria_id": 3
+      }
+    ],
+    "Bebidas": [
+      {
+        "id": 1,
+        "nome": "Água com Gás",
+        "descrição": "510ml.",
+        "preco": 3.5,
+        "categoria_id": 4
+      },
+      {
+        "id": 3,
+        "nome": "Cerveja Antarctica",
+        "descrição": "300ml.",
+        "preco": 4.5,
+        "categoria_id": 4
+      },
+      {
+        "nome": "Cerveja Antarctica",
+        "descrição": "300ml.",
+        "preco": 4.5,
+        "categoria_id": 4,
+        "id": 4
+      },
+      {
+        "id": 5,
+        "nome": "Coca-Cola",
+        "descrição": "310ml.",
+        "preco": 6,
+        "imagem": "",
+        "categoria_id": 4
+      },
+      {
+        "id": 6,
+        "nome": "Coca-Cola sem Açúcar",
+        "descrição": "350ml.",
+        "preco": 6,
+        "imagem": "",
+        "categoria_id": 4
+      },
+      {
+        "id": 7,
+        "nome": "Guaracamp",
+        "descrição": "285ml.",
+        "preco": 2,
+        "imagem": "",
+        "categoria_id": 4
+      },
+      {
+        "id": 8,
+        "nome": "Suco  da fruta Variados",
+        "descrição": "300ml.",
+        "preco": 8,
+        "categoria_id": 4
+      }
+    ],
+    "Combos": [
+      {
+        "id": 1,
+        "nome": "Combo 1",
+        "descricao": "Cachorro Quente Tradiconal 1 ou 2, batata (P), guaracamp (285ml).",
+        "preco": 19,
+        "imagem": "",
+        "categoria_id": 5
+      },
+      {
+        "id": 2,
+        "nome": "Combo 2",
+        "descricao": "Cachorro Quente atersanal 1 ou 2, batata (M), coca-cola (310ml)",
+        "preco": 19,
+        "imagem": "",
+        "categoria_id": 5
+      },
+      {
+        "id": 3,
+        "nome": "Combo 3",
+        "descricao": "Cachorro quente vegano, salada fresca, molhos especiais, suca da fruta sabores diversos (300ml).",
+        "preco": 19,
+        "imagem": "",
+        "categoria_id": 5
+      }
+    ]
+  }
